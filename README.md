@@ -20,4 +20,4 @@ Este projeto é uma aplicação web simples que calcula o Índice de Massa Corpo
 
 <img src="https://i.imgur.com/L4pOnMM.png"/>
 
-🔗 [Acesse Cálculo de IMC]((https://bmicalculatioon.netlify.app/))
+🔗 [Acesse Cálculo de IMC](https://bmicalculatioon.netlify.app/)
